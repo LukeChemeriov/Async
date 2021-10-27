@@ -1,11 +1,11 @@
 ; Script created by LukeChemeriov
 
 #define MyAppName "CoolGames"
-#define MyAppVersion "22.1"
+#define MyAppVersion "666"
 #define MyAppPublisher "PleaseDontPutThisInVirusTotal"
 #define MyAppExeName "Async.exe"
 #define MyAppAssocName "SCREW YOU CYKA"
-#define MyAppAssocExt ".nahui"
+#define MyAppAssocExt ".nahui-blyat"
 #define MyAppAssocKey StringChange(MyAppAssocName, " ", "") + MyAppAssocExt
 
 [Setup]
